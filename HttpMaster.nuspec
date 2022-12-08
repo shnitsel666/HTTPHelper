@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package>
+	<metadata>
+		<id>HttpMaster</id>
+		<version>1.0.1</version>
+		<title>HttpMaster helper library</title>
+		<authors>Shtirner Artem</authors>
+		<requireLicenseAcceptance>false</requireLicenseAcceptance>
+		<license type="expression">MIT</license>
+	</metadata>
+	<files>
+	</files>
+	<dependencies>
+		<dependency id="Newtonsoft.Json" version="13.0.1">
+	</dependencies>
+</package>
